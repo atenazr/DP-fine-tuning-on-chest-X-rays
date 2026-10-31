@@ -6,7 +6,6 @@ and which part of DP-SGD — **gradient clipping** or **noise** — is responsib
 
 The notebook: [`dp_finetuning_chest_xray.ipynb`](https://www.kaggle.com/code/atenazare/dp-fine-tuning-on-chest-xrays).
 
-
 ## Setup
 
 - **Data:** NIH ChestX-ray14, 14 findings (multi-label). One random image per patient, so one training example = one
